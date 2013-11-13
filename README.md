@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 conditionals
 ============
 
@@ -8,3 +9,4 @@ gem install rspec
 cd into each project directory.  
 
 run "rspec"
+=======
