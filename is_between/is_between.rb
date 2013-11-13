@@ -4,7 +4,7 @@
 
 #To test your solution run `rspec is_between_spec.rb` in your terminal
 
-class Integer
+class Integer(min, max)
 
   def is_between?
     #code goes here
