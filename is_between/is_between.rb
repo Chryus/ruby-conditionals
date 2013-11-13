@@ -4,10 +4,10 @@
 
 #To test your solution run `rspec is_between_spec.rb` in your terminal
 
-class Integer(min, max)
+class Integer
 
-  def is_between?
-    #code goes here
+  def is_between?(min, max)
+    self > min && self < max #code goes here
   end
 
 end
